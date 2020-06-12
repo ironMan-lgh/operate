@@ -4,3 +4,4 @@
 "feat: add delete a node for list function" on branch feature
 "test: search list" on branch feature
 "test: insert a node to list" on branch feature
+"test: delete a node for list" on branch feature
