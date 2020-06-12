@@ -5,3 +5,4 @@
 "test: search list" on branch feature
 "test: insert a node to list" on branch feature
 "test: delete a node for list" on branch feature
+"refactor: struct time_node_s add a struct message_s for save string" on branch feature
