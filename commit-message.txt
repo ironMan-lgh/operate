@@ -1,1 +1,7 @@
 "feat: save time to list" on branch master
+"feat: add search list function" on branch feature
+"feat: add insert a node to list function" on branch feature
+"feat: add delete a node for list function" on branch feature
+"test: search list" on branch feature
+"test: insert a node to list" on branch feature
+"test: delete a node for list" on branch feature
