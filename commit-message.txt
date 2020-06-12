@@ -9,3 +9,4 @@
 "refactor: modify search function input param" on branch feature
 "refactor: modify insert function input param" on branch feature
 "refactor: struct message_s add a timer" on branch feature 
+"fix: repair Segmentation Fault BUG" on branch feature
