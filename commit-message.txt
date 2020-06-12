@@ -12,3 +12,4 @@
 "fix: repair Segmentation Fault BUG" on branch feature
 "test: update search list 1.0" on branch feature
 "test: update insert a node to list 1.0" on branch feature
+"test: update delete a node for list 1.0" on branch feature
