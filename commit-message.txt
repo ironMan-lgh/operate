@@ -11,3 +11,4 @@
 "refactor: struct message_s add a timer" on branch feature 
 "fix: repair Segmentation Fault BUG" on branch feature
 "test: update search list 1.0" on branch feature
+"test: update insert a node to list 1.0" on branch feature
