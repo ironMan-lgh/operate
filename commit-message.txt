@@ -6,4 +6,5 @@
 "test: insert a node to list" on branch feature
 "test: delete a node for list" on branch feature
 "refactor: struct time_node_s add a struct message_s for save string" on branch feature
-"refactor: modify search function input param" on branch feature 
+"refactor: modify search function input param" on branch feature
+"refactor: modify insert function input param" on branch feature 
