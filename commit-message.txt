@@ -5,3 +5,12 @@
 "test: search list" on branch feature
 "test: insert a node to list" on branch feature
 "test: delete a node for list" on branch feature
+"refactor: struct time_node_s add a struct message_s for save string" on branch feature
+"refactor: modify search function input param" on branch feature
+"refactor: modify insert function input param" on branch feature
+"refactor: struct message_s add a timer" on branch feature 
+"fix: repair Segmentation Fault BUG" on branch feature
+"test: update search list 1.0" on branch feature
+"test: update insert a node to list 1.0" on branch feature
+"test: update delete a node for list 1.0" on branch feature
+"refactor: cancel struct message_s timer,change to globel timer" on branch feature
